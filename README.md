@@ -6,3 +6,4 @@ Hacer un build con "npm run build"
 Ver errores en el codigo con "npm run lint"  
   
 # React + Vite
+Endpoint: https://itx-frontend-test.onrender.com/  
